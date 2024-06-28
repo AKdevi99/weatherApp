@@ -44,15 +44,21 @@ Welcome to the Weather App GUI! This Java-based desktop application provides rea
 
 ## 📸 Screenshots
 ### Main Interface
-![Main Interface](assets/main-interface.png)
+![Main Interface]![image](https://github.com/AKdevi99/weatherApp/assets/133839771/053ed925-8c24-40b2-92ac-ac3f18d4f9cf)
 
 ### Weather Conditions
-![Weather Conditions](assets/weather-conditions.png)
+![Weather Conditions]
+![image](https://github.com/AKdevi99/weatherApp/assets/133839771/83a19d1a-1a2e-4f74-80fb-e97581177b50)
+![image](https://github.com/AKdevi99/weatherApp/assets/133839771/f442db17-e5a7-4c46-938c-fc06acf32ac7)
+
+
 
 ## 🎥 Demo Video
 Watch the demo video to see the Weather App GUI in action!
 
-[![Watch the video](assets/demo-video-thumbnail.png)](https://www.youtube.com/watch?v=your-video-link)
+[![Watch the video]
+https://github.com/AKdevi99/weatherApp/assets/133839771/52622554-42a5-4c6e-af47-9ad6c9648837
+
 
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps to contribute:
