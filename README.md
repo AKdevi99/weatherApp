@@ -4,7 +4,7 @@
 
 Welcome to the Weather App GUI! This Java-based desktop application provides real-time weather updates using the Open-Meteo API. The app features a sleek, user-friendly interface with visual representations of weather conditions.
 
-![Weather App GUI](assets/sunny.png)
+![Weather App GUI](src/assets/sunny.png)
 
 ## 📋 Table of Contents
 - [Features](#features)
@@ -57,7 +57,7 @@ Welcome to the Weather App GUI! This Java-based desktop application provides rea
 Watch the demo video to see the Weather App GUI in action!
 
 [![Watch the video]
-https://github.com/AKdevi99/weatherApp/assets/133839771/52622554-42a5-4c6e-af47-9ad6c9648837
+(https://github.com/AKdevi99/weatherApp/blob/main/src/assets/weatherapp.mov)
 
 
 ## 🤝 Contributing
