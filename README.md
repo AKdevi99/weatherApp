@@ -4,7 +4,7 @@
 
 Welcome to the Weather App GUI! This Java-based desktop application provides real-time weather updates using the Open-Meteo API. The app features a sleek, user-friendly interface with visual representations of weather conditions.
 
-[!weatherAppgui](src/assets/sunny.png)
+![sunny](https://github.com/AKdevi99/weatherApp/assets/133839771/3af20623-591c-4ad9-8618-478cbddca107)
 
 ## 📋 Table of Contents
 - [Features](#features)
@@ -44,21 +44,16 @@ Welcome to the Weather App GUI! This Java-based desktop application provides rea
 
 ## 📸 Screenshots
 ### Main Interface
-[!image](https://github.com/AKdevi99/weatherApp/assets/133839771/053ed925-8c24-40b2-92ac-ac3f18d4f9cf)
+![Main Interface](https://github.com/AKdevi99/weatherApp/assets/133839771/053ed925-8c24-40b2-92ac-ac3f18d4f9cf)
 
 ### Weather Conditions
-
-[!image](https://github.com/AKdevi99/weatherApp/assets/133839771/83a19d1a-1a2e-4f74-80fb-e97581177b50)
-[!image](https://github.com/AKdevi99/weatherApp/assets/133839771/f442db17-e5a7-4c46-938c-fc06acf32ac7)
-
-
+![Weather Conditions](https://github.com/AKdevi99/weatherApp/assets/133839771/83a19d1a-1a2e-4f74-80fb-e97581177b50)
+![Weather Conditions](https://github.com/AKdevi99/weatherApp/assets/133839771/f442db17-e5a7-4c46-938c-fc06acf32ac7)
 
 ## 🎥 Demo Video
 Watch the demo video to see the Weather App GUI in action!
 
-
-[!video](https://github.com/AKdevi99/weatherApp/blob/main/src/assets/weatherapp.mov)
-
+[Demo Video](https://github.com/AKdevi99/weatherApp/blob/main/src/assets/weatherapp.mov)
 
 ## 🤝 Contributing
 Contributions are welcome! Please follow these steps to contribute:
